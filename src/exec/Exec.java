@@ -10,12 +10,12 @@ import java.util.Scanner;
 public class Exec {
     public static void main(String[] args) throws SQLException {
         
-        Scanner clavier = new Scanner(System.in);
+        /*Scanner clavier = new Scanner(System.in);
         System.out.println("Saisir le nom de la salle : ");
         String salle = clavier.nextLine();
         
-        recherche(salle);
-        // menu();
+        recherche(salle);*/
+        menu();
         
         
         
